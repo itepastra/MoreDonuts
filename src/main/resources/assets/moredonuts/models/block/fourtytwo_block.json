@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "moredonuts:block/fourtytwo_block"
+    }
+}

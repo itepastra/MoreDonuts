@@ -1,0 +1,12 @@
+[{
+  "modid": "moredonuts",
+  "name": "More Donuts",
+  "description": "Brings donuts and other stuff to the minecraft",
+  "version": "1.0.0",
+  "mcversion": "1.13.2",
+  "logoFile": "assets/moredonuts/textures/logo.png",
+  "url": "minecraftforge.net/",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["itepastra"],
+  "credits": "I'd like to thank all the tutorials on the interwebs."
+}]
